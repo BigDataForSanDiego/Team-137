@@ -4,16 +4,16 @@
 
 #### Team Name: HealthCom   
   
-#### Your teamâ€™s hackathon idea in One sentence:
+#### Your team's hackathon idea in One sentence:
 ##### We propose an app to facilitate pregnancy appointment tracking, provide maternity ward locations, and health education resources to help pregnant people have safer pregnancy care and birth experiences.  
 
 
 #### A visual
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
-<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
+<img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/Team-137/blob/main/diagram.png"> 
 
 <!--
-#### Theme: Enhancing Healthcareâ€™s Digital Front Door
+#### Theme: Enhancing Healthcare's Digital Front Door
 #### - Digital solutions to help increase access, manage health, and improve patient satisfaction along the healthcare journey -  
 -->
 
